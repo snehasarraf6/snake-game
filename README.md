@@ -1,42 +1,35 @@
-# 🐍 Sneha's Snake Game
+# 🐍 Snake Game in Python
 
-A fun and classic **Snake Game** reimagined with clean HTML, CSS, and JavaScript!  
-Built for browsers, styled for elegance, and designed to challenge your reflexes. 🎮💖
+A classic **Snake Game** made entirely using **Python**!  
+Control your snake, eat the food, and try not to crash — all in a fun terminal or GUI environment. 🎮🐍
 
-![Sneha's Snake](https://user-images.githubusercontent.com/your-username/snake-banner.gif)
-
-
-## ✨ Features
-
-- 🐍 Classic Snake Gameplay
-- 💾 Score Tracker with High Score Memory
-- 📱 Responsive Layout (play on mobile or desktop)
-- 💖 Smooth Animations & Stylish UI
-- ⌨️ Keyboard Controls (WASD or Arrow Keys)
-
-
-## 💡 How to Play
-
-- Use **Arrow Keys** or **W / A / S / D** to move the snake.
-- Eat 🍎 food to grow longer and score points.
-- Avoid crashing into the walls or yourself.
-- The game speeds up as you grow!
+![Snake Game Python](https://github.com/snehasarraf6/snake-game/assets/your-banner.gif)
 
 ---
 
-## 🛠️ Tech Stack
+## 🎮 Game Features
 
-- `HTML5`
-- `CSS3`
-- `Vanilla JavaScript`
+- 🐍 Classic snake movement
+- 🍎 Food spawning & eating
+- 🧱 Collision detection (walls & self)
+- 💯 Score tracking
+- 💖 Clean code with comments for learning
 
 ---
 
-## 🚀 Run Locally
+## 🧰 Tech Used
 
-Clone the repo:
+- `Python 3.x`
+- Either:
+  - 🐢 `turtle` module *(for GUI version)*  
+  - or 🎮 `pygame` *(for advanced version)*
+
+---
+
+## 🛠️ How to Run
+
+1. Clone this repository:
 
 ```bash
 git clone https://github.com/snehasarraf6/snake-game.git
 cd snake-game
-open index.html
